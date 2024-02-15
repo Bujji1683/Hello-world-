@@ -1,5 +1,5 @@
 # Hello-world-
-#i nclude<iostream>
+#include<iostream>
 int main()
 {
  std:: cout <<"hello world ";
