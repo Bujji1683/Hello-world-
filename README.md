@@ -5,7 +5,7 @@ int main()
 int n;
 std::cout << "Enter a number:";
 std::cin >> n\n;
-if (n/2 == 0)
+if (n%2 == 0)
  {
   std::cout << "Given number is       even\n";
  }
